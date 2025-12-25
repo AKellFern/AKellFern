@@ -1,56 +1,75 @@
-# 👋 Hi, I'm Aaron Kellan-Fernandez
+# 👋 Hi, I’m Aaron Kellan-Fernandez
 
-🎮 Game Programming & Development student at SNHU  
-💻 Working in C#, Blueprint, and Unreal Engine 5  
-🧠 Exploring game design, UI/UX, and rapid prototyping  
-🖌️ Also dabbling in 3D modeling, animation, and digital design
+🎮 Game Programming & Development student at Southern New Hampshire University  
+🛠️ Aspiring gameplay / systems programmer with a strong Unreal Engine focus  
+🧠 Interested in building clean, scalable gameplay mechanics and player-centered systems  
 
----
-
-## 🔧 Technologies & Topics I'm Studying
-
-- **Languages**: C#, Blueprint, Python (intro), C++ (upcoming)  
-- **Tools**: Unreal Engine 5, GitHub, Visual Studio, Adobe Suite (basic)  
-- **Skills**: Game mechanics, AI scripting, UI/UX, level design, prototyping  
-- **Math & Logic**: Calculus I, Linear Algebra, Precalculus
+I enjoy working at the intersection of technical problem-solving and player experience—designing gameplay systems, AI logic, and interfaces that are readable, maintainable, and fun to interact with. My projects emphasize iteration, clarity, and learning through building.
 
 ---
 
-## 📚 Course Projects
+## 🔧 Technical Skills
 
-- **GAM 303 – Virtual Game Environments**  
-  Unreal Engine 5 prototype focused on environmental puzzles, door systems, and interaction design.  
-  [🔗 View Project Repo](https://github.com/AKellFern/AKF_GAM303_VirtualEnvPrototype)
+**Programming & Scripting**
+- C#
+- C++ (foundational, in progress)
+- Unreal Engine Blueprint
+- Java (introductory)
+- JavaScript (introductory)
+- Python (introductory)
 
-- **GAM 207 – Information Technology and Digital Games**  
-  Arena shooter prototype built with Blueprint, featuring pickups, AI enemies, and HUD elements.  
-  [🔗 View Project Repo](https://github.com/AKellFern/AKF_GAM207_ArenaPrototype)
+**Web Foundations**
+- HTML
+- CSS
 
-- **IT 230 – Software Development with C#**  
-  Console and WPF-based course registration system enforcing logic and credit limits.  
-  [🔗 View Project Repo](https://github.com/AKellFern/AKF_IT230_StudentRegistration)
-
-- **GRA 211 – Interactive Animation**  
-  Frame-based animation project created in Adobe Animate with basic user interaction.
-
----
-
-## 🔭 What’s Next
-
-- Build C++/Blueprint hybrid gameplay systems  
-- Expand AI behavior and state machines  
-- Continue polishing and publishing UE5 prototypes  
-- Learn tools for production pipelines and cross-platform dev
+**Engines & Tools**
+- Unreal Engine 5
+- GitHub (version control & collaboration)
+- Visual Studio
+- Adobe Creative Suite (foundational)
 
 ---
 
-## 👾 Let's Connect
+## 🧩 Game Development Focus
 
-📧 `aaron.kellan-fernandez@snhu.edu`  
-🌐 [GitHub Portfolio](https://github.com/AKellFern)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aaron-kellan-fernandez-6023b8269)  
-🎮 Discord: `.hyperpolyglot`
+- Gameplay systems & mechanics
+- AI behavior and state-based logic
+- UI / UX for games
+- Interaction systems and level scripting
+- Rapid prototyping and iteration
+- Debugging and system refinement
 
 ---
 
-_Thanks for checking out my work! More projects, prototypes, and ✨creative chaos✨ coming soon._
+## 🧪 Software & Production Foundations
+
+- Object-oriented programming principles
+- Software testing fundamentals
+- Basic quality assurance workflows
+- Documentation and requirements analysis
+- Introductory project management concepts
+
+These skills come from coursework involving structured testing, iterative development, and reflective documentation of design and implementation decisions.
+
+---
+
+## 🔭 Professional Goals
+
+- Build hybrid C++ / Blueprint gameplay systems  
+- Expand AI logic and behavior architectures  
+- Improve code organization and reusability  
+- Develop polished Unreal Engine prototypes suitable for portfolio review  
+- Gain hands-on experience through internships or junior development roles  
+
+---
+
+## 👾 Connect With Me
+
+📧 **Email:** `aaron.kellan-fernandez@snhu.edu`  
+🌐 **GitHub:** https://github.com/AKellFern  
+🔗 **LinkedIn:** https://www.linkedin.com/in/aaron-kellan-fernandez-6023b8269  
+🎮 **Discord:** `.hyperpolyglot`
+
+---
+
+*Thanks for visiting my profile. I’m actively learning, building, and refining my skills through hands-on projects and coursework.*
