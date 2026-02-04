@@ -1,47 +1,45 @@
-# 👋 Hi, I’m Aaron Kellan-Fernandez
+# Aaron Kellan-Fernandez
 
-🎮 Game Programming & Development student at Southern New Hampshire University  
-🛠️ Aspiring gameplay / systems programmer with a strong Unreal Engine focus  
-🧠 Interested in building clean, scalable gameplay mechanics and player-centered systems  
+Game Programming & Development student at Southern New Hampshire University with a focus on **gameplay systems, iteration, and Unreal Engine development**. I am interested in building clean, maintainable gameplay mechanics and player-centered systems that balance technical clarity with engaging interaction.
 
-I enjoy working at the intersection of technical problem-solving and player experience—designing gameplay systems, AI logic, and interfaces that are readable, maintainable, and fun to interact with. My projects emphasize iteration, clarity, and learning through building.
+My work emphasizes learning through building, iterative improvement, and clear documentation. Projects here include coursework and prototypes designed to explore gameplay systems, AI behavior, and interactive mechanics within real-world constraints.
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
-**Programming & Scripting**
+### Programming & Scripting
 - C#
 - C++ (foundational, in progress)
-- Unreal Engine Blueprint
+- Unreal Engine Blueprints
 - Java (introductory)
 - JavaScript (introductory)
 - Python (introductory)
 
-**Web Foundations**
+### Web Foundations
 - HTML
 - CSS
 
-**Engines & Tools**
+### Engines & Tools
 - Unreal Engine 5
-- GitHub (version control & collaboration)
+- GitHub (version control)
 - Visual Studio
 - Adobe Creative Suite (foundational)
 
 ---
 
-## 🧩 Game Development Focus
+## Game Development Focus
 
-- Gameplay systems & mechanics
+- Gameplay systems and mechanics
 - AI behavior and state-based logic
-- UI / UX for games
+- UI / UX for interactive systems
 - Interaction systems and level scripting
 - Rapid prototyping and iteration
 - Debugging and system refinement
 
 ---
 
-## 🧪 Software & Production Foundations
+## Software & Production Foundations
 
 - Object-oriented programming principles
 - Software testing fundamentals
@@ -49,27 +47,27 @@ I enjoy working at the intersection of technical problem-solving and player expe
 - Documentation and requirements analysis
 - Introductory project management concepts
 
-These skills come from coursework involving structured testing, iterative development, and reflective documentation of design and implementation decisions.
+These skills are developed through coursework emphasizing structured testing, iteration, and reflective documentation of design and implementation decisions.
 
 ---
 
-## 🔭 Professional Goals
+## Professional Goals
 
-- Build hybrid C++ / Blueprint gameplay systems  
-- Expand AI logic and behavior architectures  
-- Improve code organization and reusability  
-- Develop polished Unreal Engine prototypes suitable for portfolio review  
-- Gain hands-on experience through internships or junior development roles  
-
----
-
-## 👾 Connect With Me
-
-📧 **Email:** `aaron.kellan-fernandez@snhu.edu`  
-🌐 **GitHub:** https://github.com/AKellFern  
-🔗 **LinkedIn:** https://www.linkedin.com/in/aaron-kellan-fernandez-6023b8269  
-🎮 **Discord:** `.hyperpolyglot`
+- Build hybrid C++ / Blueprint gameplay systems
+- Expand AI logic and behavior architectures
+- Improve code organization and reusability
+- Develop polished Unreal Engine prototypes suitable for portfolio review
+- Gain hands-on experience through internships or junior game development roles
 
 ---
 
-*Thanks for visiting my profile. I’m actively learning, building, and refining my skills through hands-on projects and coursework.*
+## Contact & Links
+
+- **Email:** aaron.kellan-fernandez@snhu.edu  
+- **GitHub:** https://github.com/AKellFern  
+- **LinkedIn:** https://www.linkedin.com/in/aaron-kellan-fernandez-6023b8269  
+- **Discord:** .hyperpolyglot
+
+---
+
+This profile represents ongoing learning and development through hands-on projects and coursework. Repositories emphasize process, iteration, and system exploration rather than final commercial releases.
